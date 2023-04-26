@@ -1,2 +1,2 @@
 # VisionTransformers
-Implementation of original Vision Transformer Paper
+Implementation of Vision Transformers 
